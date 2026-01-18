@@ -1,0 +1,15 @@
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.sourcelink.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\bin\Debug\net10.0\Semana 6 listas y arreglos.exe
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\bin\Debug\net10.0\Semana 6 listas y arreglos.deps.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\bin\Debug\net10.0\Semana 6 listas y arreglos.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\bin\Debug\net10.0\Semana 6 listas y arreglos.dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\bin\Debug\net10.0\Semana 6 listas y arreglos.pdb
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\refint\Semana 6 listas y arreglos.dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.pdb
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\Semana 6 listas y arreglos.genruntimeconfig.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\Semana 6 listas y arreglos\obj\Debug\net10.0\ref\Semana 6 listas y arreglos.dll
