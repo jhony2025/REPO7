@@ -1,2 +1,0 @@
-# REPO7
-USO DE PILA
