@@ -1,0 +1,15 @@
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\bin\Debug\net10.0\ProgramaCombinado.exe
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\bin\Debug\net10.0\ProgramaCombinado.deps.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\bin\Debug\net10.0\ProgramaCombinado.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\bin\Debug\net10.0\ProgramaCombinado.dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\bin\Debug\net10.0\ProgramaCombinado.pdb
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.sourcelink.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\refint\ProgramaCombinado.dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.pdb
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ProgramaCombinado.genruntimeconfig.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\FUNCION DE LA PILA\ProgramaCombinado\obj\Debug\net10.0\ref\ProgramaCombinado.dll
