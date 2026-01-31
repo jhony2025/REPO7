@@ -1,0 +1,15 @@
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\bin\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).exe
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\bin\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).deps.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\bin\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).runtimeconfig.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\bin\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\bin\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).pdb
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).sourcelink.json
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\refint\SEMANA 8 USO DE C# (POO – Queue).dll
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).pdb
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\SEMANA 8 USO DE C# (POO – Queue).genruntimeconfig.cache
+C:\Users\PERSONAL\Desktop\3RO TRIMESTRES TAREAS\Cod.semana6\SEMANA 8 USO DE C# (POO – Queue)\obj\Debug\net10.0\ref\SEMANA 8 USO DE C# (POO – Queue).dll
